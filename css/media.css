@@ -1,0 +1,18 @@
+@media (max-width: 576px) {
+  .ap1 {
+    font-size: 20px; /* smaller than 28px */
+  }
+  .ap2 {
+    font-size: 16px; /* smaller than 24px */
+  }
+  .map-container{
+    height: auto;
+    width: 300px;
+  }
+  .call{
+    bottom: 20px;
+    left: 5px;
+    height: 70px;
+    width: 70px;
+  }
+}
