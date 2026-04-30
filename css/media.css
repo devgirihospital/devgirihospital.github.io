@@ -1,0 +1,160 @@
+<<<<<<< HEAD
+@media (max-width: 767px) {
+  .site-header nav {
+    align-items: flex-start;
+  }
+
+  .brand-lockup p:first-child {
+    font-size: 1rem;
+  }
+
+  #mainMenu {
+    background: rgba(255, 255, 255, 0.96);
+    border: 1px solid rgba(14, 116, 144, 0.14);
+    border-radius: 14px;
+    box-shadow: 0 18px 38px rgba(15, 23, 42, 0.1);
+    padding: 12px;
+  }
+
+  .hero-section {
+    background:
+      linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(232, 247, 251, 0.94));
+  }
+
+  .hero-copy h1 {
+    font-size: 2.45rem;
+  }
+
+  .doctor-card {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .doctor-photo {
+    margin: 0 auto;
+  }
+
+  .section-title {
+    font-size: 2rem;
+  }
+
+  .section-copy {
+    font-size: 1rem;
+  }
+
+  .lottie-animation {
+    min-height: 240px;
+  }
+
+  .lottie-animation svg {
+    max-height: 260px;
+  }
+
+  .lottie-fallback {
+    height: 220px;
+  }
+
+  .service-card h3 {
+    font-size: 0.95rem;
+  }
+
+  .service-card h4 {
+    font-size: 0.96rem;
+  }
+
+  .hero-emergency-panel {
+    bottom: 12px;
+    left: 12px;
+    padding: 14px;
+    right: 12px;
+  }
+
+  .hero-emergency-panel span {
+    font-size: 0.86rem;
+  }
+
+  .floating-call {
+    bottom: 18px;
+    left: 12px;
+    padding: 11px 18px;
+  }
+
+  .contact-row {
+    grid-template-columns: 1fr;
+    padding: 18px;
+  }
+
+  .map-frame,
+  .map-frame iframe {
+    min-height: 320px;
+  }
+}
+
+@media (max-width: 420px) {
+  #chatbot {
+    bottom: 82px;
+    right: 12px;
+  }
+
+  .doctor-chat-button {
+    min-width: auto;
+    padding: 7px;
+  }
+
+  .assistant-label {
+    display: none;
+  }
+
+  .assistant-photo {
+    height: 46px;
+    width: 46px;
+  }
+
+  .chat-panel {
+    bottom: 72px;
+    max-height: calc(100vh - 180px);
+    right: -2px;
+  }
+
+  #chatMessages {
+    height: 240px;
+  }
+
+  .fixed.bottom-5.left-5 {
+    bottom: 18px;
+    left: 12px;
+  }
+
+  .hero-copy h1 {
+    font-size: 2.1rem;
+  }
+
+  .hero-kicker {
+    font-size: 0.82rem;
+  }
+
+  .hero-emergency-panel {
+    position: static;
+    margin-top: 12px;
+  }
+}
+=======
+@media (max-width: 576px) {
+  .ap1 {
+    font-size: 20px; /* smaller than 28px */
+  }
+  .ap2 {
+    font-size: 16px; /* smaller than 24px */
+  }
+  .map-container{
+    height: auto;
+    width: 300px;
+  }
+  .call{
+    bottom: 20px;
+    left: 5px;
+    height: 70px;
+    width: 70px;
+  }
+}
+>>>>>>> d9c4c28eb02784c15b2d3c7e210dc6c8adbf07be
