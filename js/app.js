@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const hospitalPhone = '917498536311';
 
 function initLottieAnimations() {
@@ -208,17 +207,3 @@ if (document.readyState === 'loading') {
   initLottieAnimations();
   window.setTimeout(greetVisitorAutomatically, 900);
 }
-=======
-let btn = document.querySelector('.btn');
-
-btn.onclick = () => {
-    window.location.href = "tel:+917498536311";;
-};
-
-
-let btn1 = document.querySelector('.btn1');
-
-btn1.onclick = () => {
-    window.location.href = "tel:+917498536311";;
-};
->>>>>>> d9c4c28eb02784c15b2d3c7e210dc6c8adbf07be
